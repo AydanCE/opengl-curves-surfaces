@@ -1,0 +1,1 @@
+g++ main.cpp vecmath/*.cpp -I "C:/Users/AYDAN'S/vcpkg/installed/x64-windows/include" -I "./include" -I "./include/vecmath" -L "./lib" -L "C:/Users/AYDAN'S/vcpkg/installed/x64-windows/lib" -lfreeglut -lglu32 -lopengl32 -lgdi32 -lwinmm -o a0.exe
